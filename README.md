@@ -1,3 +1,1 @@
-Used to practice pushing files into existing repositories.
-Using programming assignment #2 for COP3503 for testing puproses.
-
+Second programming assignment for Programming Fundamentals 2 at the University of Florida
